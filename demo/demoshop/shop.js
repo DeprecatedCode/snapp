@@ -1,6 +1,6 @@
-var app = new (require('snapp').application)();
+var app = require('snapp');
 
-//console.log('Shop Application running in ' + __dirname);
+console.log('Shop Application running in ' + __dirname);
     
 var dummyProductList = [
     {id: 4,     name: 'Remote Controlled Hot Rod',  price: 49.00},
@@ -48,19 +48,5 @@ app.product = function(id) {
 
 app.test = {
     good: 'Page exists',
-    $404: 'Custom 404 Error by realm!'
+    $404: 'Custom 404 Error by realm! Visit a page under /test other than /test/good to see this'
 };
-
-app.math = function(var_a) {
-    return {
-        add: function(var_b) {
-            return var_a*1.0 + var_b*1;
-        },
-        
-        multiply: function(var_b) {
-            return var_a * var_b;
-        }
-    };
-};
-
-/**/

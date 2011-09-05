@@ -1,65 +1,64 @@
 # Snapp
 
-Snapp makes automatic routing of your application insanely easy. Try it now!
+# Or, Stop Manually Writing Lists of Routes and Start Writing your App!
+
+Snapp makes automatic routing of your application insanely easy. It must be magic!
+
+## Installation
+
+Not yet available in npm. For now, manually clone this repository under your node-modules folder.
 
 ## Basic Example App
 
-This makes a very simple, but fully operation webapp!
+This makes a very simple, but fully operation webapp! Save the following as example.js:
 
-    var app = new (require('snapp').application)();
+    var app = require('snapp');
     
-    var dummyProductList = [
-        {id: 4,     name: 'Remote Controlled Hot Rod',  price: 49.00},
-        {id: 'axe', name: '"Old Whacker" Steel Axe',    price: 89.00},
-        {id: 19,    name: '4GB Desktop Computer RAM',   price: 69.99}
-    ];
+    app.hello = 'Hello World';
     
-    var css = '<style>font-family: Verdana;</style>';
-    
-    app.$index = css+'<h1>Home Page</h1><p>Welcome to our website. Please view <a href="/products">Our Products</a>.</p>';
-    
-    app.products = function() {
-        var list = '';
-        for(var i in dummyProductList) {
-            product = dummyProductList[i];
-            list += '<li><a href="/product/'+product.id+'">'+product.name+'</a> for $'+product.price+'</li>';
-        }
-        return css+'<h1>Our Products</h1><ul>'+list+'</ul>';
+    app.$index = {
+      $status: 200,
+      $mime: 'text/html',
+      $content: '<img src="/logo.png" /><a href="/hello">Say Hi</a>'
     };
     
-    app.product = function(id) {
-        for(var i in dummyProductList) {
-            product = dummyProductList[i];
-            if(product.id == id) return {
-            
-                $index: css+'<h1>Product Details</h1><p><a href="/products">&laquo; All Products</a><hr/>'+
-                    '<h3>'+product.name+'</h3>Price: $'+product.price+' <a href="'+id+'/edit">[edit]</a>',
-                    
-                edit: css+'<h1>Edit Product</h1><p><a href="../">&laquo; Cancel</a><hr/>'+
-                    '<label>Name:</label><input name="name" value="'+product.name+'"/>'+
-                    '<label>Price:</label><input name="price" value="'+product.price+'"/>'
-            
-            };
-        }
-        return css+'Product not found';
-    };
+    app['logo.png'] = app.$file('logo.png');
+
+To start, you must specify a port to run on with the -p option, as such:
+
+    node example.js -p 8080
     
-## Advanced Example
+To see the logo, add a logo.png in the same directory as your app.
+
+## Advanced Example: URL Math
 
 Just for fun! See if you understand this, and how to properly visit it in the browser :)
+Pay special attention to which URLs generate a 404 error, and which URLs work.
 
-    var app = new (require('snapp').application)();
-    
-    app.math = function(var_a) {
-        return {
-            add: function(var_b) {
-                return var_a + var_b;
+    var app = require('snapp'),
+        f = parseFloat;
+   
+    app.math = function(num1, callback) {
+        num1 = f(num1);
+        callback({
+            add: function(num2, callback) {
+                callback(num1 + f(num2));
             },
-            
-            multiply: function(var_b) {
-                return var_a * var_b;
+            multiply:function(num2, callback) {
+                callback(num1 * f(num2));
             }
-        };
+        });
     };
 
-## 
+## Custom Error Pages
+
+Normally, a 500 error shows the stack trace in the browser. If you would like to
+change this behavior, just add a $500 page to your application. This example logs
+the error to the console.
+
+    app.$500 = function(segment, callback, context) {
+        console.log(context.error.stack);
+        callback('Server Error');
+    };
+
+## To be Continued...

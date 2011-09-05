@@ -1,0 +1,237 @@
+   [36minfo  -[39m socket.io started
+
+
+                         .  ..__%|iiiiiii=>,..
+                          _<iIIviiiiiiiiiillli<_.
+                       .ivIvilli%||+++++|iillllvs;_
+                     ..nvlIlv|~`.......... -<*IIIvv=
+                    .)nvvvvv-.... .   .. ...  ~nvvvo=.
+         .__i<iiiii><vvvvn(= .  . ..i>, .  ... +)nnnv..
+      _i%vvvvllIIlIlIvIvvv(   .. . lnnsi  .    :)vnvnsissvisi>__.
+   .<vnvvvvvvIvvvvvvvlvvII;. .     |nnvv:  . . -)lvvlIIIIlvvIvnnns=_.
+ .:vnvvvvvvvvvvvvvIvIvIIvv>:  . . . |{}l.    . :<lvIvvvvvvvvvvvvvvnov.
+ |)nvnvnvnvnvnvvvvvvvvvvvvis .            . .  =ivvvvvvvvvvvnvnvnvnvnn..
+.nnnnnnvnnvnvnvnvvvnvvvvvvvnv_   .    .       :vnvvvvvvvnvnnvnnnnnnnnov;
+:2oonnnnnnnnnvnvnnvnvvnvvvvvIvvi==_i..    .  .vvvvvvvvnvnnvnnnnnnnnooooc
+:nnooonnnnnnnnnnvvnvvvvvvvvIvIlIvvnI-      .=vvvvvvvvnvnvnnnnnnnnnnooo2(
+ |{XooooonnnnnvnvnvvvvvvvIIIIIIIIv|-      .<vIlIIvIvvvvvnvvnvnnnnnooo2v(
+ .){2ooooonnnnvnvnvvvvvIIIIIIlll+-     . =)lllIIvIvvvvvvvnvnnnvnnooo22-`
+   -{2oooonnnnnvvvvvvvlIIlllllil==_   ._iIllillllllIvvvvvvnvnnnnoooo*-
+  . -."11oonnvvvnvvIIlIlliliiiiillii||iliiiiiiililllIIvvvvvnnnnn2}(~.
+      . -+~!lvvnvIvIIllliiiii|i|||i||i|||i||iiiiilillIIvvvvvv}|"- .
+          . ..--~++++++++~+~+~+~+-+-+~+~+-+~+~++~++++++~~~-:.. .
+               . .  . . .... . . .... .. ... .. ... . . . .
+
+                           Ajax.org Cloud9 IDE
+                              version 0.5.1
+Project root is: /nate/projects
+Point your browser to http://69.195.198.15:3000
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":false,"workspaceDir":"/nate/projects"}
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":false,"workspaceDir":"/nate/projects"}
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":false,"workspaceDir":"/nate/projects"}
+Running user disconnect timer owner2362902071326971
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":false,"workspaceDir":"/nate/projects"}
+Executing node node /nate/projects/node_modules/snapp/service/start.js  /nate/projects/
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":true,"workspaceDir":"/nate/projects"}
+Executing node node /nate/projects/node_modules/snapp/service/start.js  /nate/projects/
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":true,"workspaceDir":"/nate/projects"}
+Executing node node /nate/projects/node_modules/snapp/service/start.js  /nate/projects/
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":true,"workspaceDir":"/nate/projects"}
+Executing node node /nate/projects/node_modules/snapp/service/start.js  /nate/projects/
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":true,"workspaceDir":"/nate/projects"}
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":false,"workspaceDir":"/nate/projects"}
+Executing node node /nate/projects/node_modules/snapp/service/start.js  /nate/projects/
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":true,"workspaceDir":"/nate/projects"}
+Executing node node /nate/projects/node_modules/snapp/service/start.js  /nate/projects/
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":true,"workspaceDir":"/nate/projects"}
+Executing node node /nate/projects/node_modules/snapp/service/start.js  /nate/projects/
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":true,"workspaceDir":"/nate/projects"}
+Executing node node /nate/projects/node_modules/snapp/service/start.js  /nate/projects/
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":true,"workspaceDir":"/nate/projects"}
+Executing node node /nate/projects/node_modules/snapp/service/start.js  /nate/projects/
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":true,"workspaceDir":"/nate/projects"}
+Executing node node /nate/projects/node_modules/snapp/service/start.js  /nate/projects/
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":true,"workspaceDir":"/nate/projects"}
+Executing node node /nate/projects/node_modules/snapp/service/start.js  /nate/projects/
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":true,"workspaceDir":"/nate/projects"}
+Executing node node /nate/projects/node_modules/snapp/service/start.js  /nate/projects/
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":true,"workspaceDir":"/nate/projects"}
+Running user disconnect timer owner2362902071326971
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":false,"workspaceDir":"/nate/projects"}
+Running user disconnect timer owner2362902071326971
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":false,"workspaceDir":"/nate/projects"}
+Executing node node /nate/projects/node_modules/snapp/service/start.js  /nate/projects/
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":true,"workspaceDir":"/nate/projects"}
+Executing node node /nate/projects/node_modules/snapp/service/start.js  /nate/projects/
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":true,"workspaceDir":"/nate/projects"}
+Executing node node /nate/projects/node_modules/snapp/service/start.js  /nate/projects/
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":true,"workspaceDir":"/nate/projects"}
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":false,"workspaceDir":"/nate/projects"}
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":false,"workspaceDir":"/nate/projects"}
+Executing node node /nate/projects/node_modules/snapp/service/start.js  /nate/projects/
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":true,"workspaceDir":"/nate/projects"}
+Executing node node /nate/projects/node_modules/snapp/service/start.js  /nate/projects/
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":true,"workspaceDir":"/nate/projects"}
+Executing node node /nate/projects/node_modules/snapp/service/start.js  /nate/projects/
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":true,"workspaceDir":"/nate/projects"}
+Executing node node /nate/projects/node_modules/snapp/service/start.js  /nate/projects/
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":true,"workspaceDir":"/nate/projects"}
+Executing node node /nate/projects/node_modules/snapp/service/start.js  /nate/projects/
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":true,"workspaceDir":"/nate/projects"}
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":true,"workspaceDir":"/nate/projects"}
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":true,"workspaceDir":"/nate/projects"}
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":true,"workspaceDir":"/nate/projects"}
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":true,"workspaceDir":"/nate/projects"}
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":true,"workspaceDir":"/nate/projects"}
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":true,"workspaceDir":"/nate/projects"}
+Executing node node /nate/projects/node_modules/snapp/service/start.js  /nate/projects/
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":true,"workspaceDir":"/nate/projects"}
+Executing node node /nate/projects/node_modules/snapp/service/start.js  /nate/projects/
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":true,"workspaceDir":"/nate/projects"}
+Executing node node /nate/projects/node_modules/snapp/service/start.js  /nate/projects/
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":true,"workspaceDir":"/nate/projects"}
+   [36minfo  -[39m socket.io started
+
+
+                         .  ..__%|iiiiiii=>,..
+                          _<iIIviiiiiiiiiillli<_.
+                       .ivIvilli%||+++++|iillllvs;_
+                     ..nvlIlv|~`.......... -<*IIIvv=
+                    .)nvvvvv-.... .   .. ...  ~nvvvo=.
+         .__i<iiiii><vvvvn(= .  . ..i>, .  ... +)nnnv..
+      _i%vvvvllIIlIlIvIvvv(   .. . lnnsi  .    :)vnvnsissvisi>__.
+   .<vnvvvvvvIvvvvvvvlvvII;. .     |nnvv:  . . -)lvvlIIIIlvvIvnnns=_.
+ .:vnvvvvvvvvvvvvvIvIvIIvv>:  . . . |{}l.    . :<lvIvvvvvvvvvvvvvvnov.
+ |)nvnvnvnvnvnvvvvvvvvvvvvis .            . .  =ivvvvvvvvvvvnvnvnvnvnn..
+.nnnnnnvnnvnvnvnvvvnvvvvvvvnv_   .    .       :vnvvvvvvvnvnnvnnnnnnnnov;
+:2oonnnnnnnnnvnvnnvnvvnvvvvvIvvi==_i..    .  .vvvvvvvvnvnnvnnnnnnnnooooc
+:nnooonnnnnnnnnnvvnvvvvvvvvIvIlIvvnI-      .=vvvvvvvvnvnvnnnnnnnnnnooo2(
+ |{XooooonnnnnvnvnvvvvvvvIIIIIIIIv|-      .<vIlIIvIvvvvvnvvnvnnnnnooo2v(
+ .){2ooooonnnnvnvnvvvvvIIIIIIlll+-     . =)lllIIvIvvvvvvvnvnnnvnnooo22-`
+   -{2oooonnnnnvvvvvvvlIIlllllil==_   ._iIllillllllIvvvvvvnvnnnnoooo*-
+  . -."11oonnvvvnvvIIlIlliliiiiillii||iliiiiiiililllIIvvvvvnnnnn2}(~.
+      . -+~!lvvnvIvIIllliiiii|i|||i||i|||i||iiiiilillIIvvvvvv}|"- .
+          . ..--~++++++++~+~+~+~+-+-+~+~+-+~+~++~++++++~~~-:.. .
+               . .  . . .... . . .... .. ... .. ... . . . .
+
+                           Ajax.org Cloud9 IDE
+                              version 0.5.1
+Project root is: /nate/projects
+Point your browser to http://69.195.198.15:3000
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":false,"workspaceDir":"/nate/projects"}
+Executing node node /nate/projects/node_modules/snapp/service/start.js  /nate/projects/
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":true,"workspaceDir":"/nate/projects"}
+Executing node node /nate/projects/node_modules/snapp/service/start.js  /nate/projects/
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":true,"workspaceDir":"/nate/projects"}
+Executing node node /nate/projects/node_modules/snapp/service/start.js  /nate/projects/
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":true,"workspaceDir":"/nate/projects"}
+Executing node node /nate/projects/node_modules/snapp/service/start.js  /nate/projects/
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":true,"workspaceDir":"/nate/projects"}
+Executing node node /nate/projects/node_modules/snapp/service/start.js  /nate/projects/
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":true,"workspaceDir":"/nate/projects"}
+Executing node node /nate/projects/node_modules/snapp/service/start.js  /nate/projects/
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":true,"workspaceDir":"/nate/projects"}
+Executing node node /nate/projects/node_modules/snapp/service/start.js  /nate/projects/
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":true,"workspaceDir":"/nate/projects"}
+Executing node node /nate/projects/node_modules/snapp/service/start.js  /nate/projects/
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":true,"workspaceDir":"/nate/projects"}
+Executing node node /nate/projects/node_modules/snapp/service/start.js  /nate/projects/
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":true,"workspaceDir":"/nate/projects"}
+Executing node node /nate/projects/node_modules/snapp/service/start.js  /nate/projects/
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":true,"workspaceDir":"/nate/projects"}
+Executing node node /nate/projects/node_modules/snapp/service/start.js  /nate/projects/
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":true,"workspaceDir":"/nate/projects"}
+Executing node node /nate/projects/node_modules/snapp/service/start.js  /nate/projects/
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":true,"workspaceDir":"/nate/projects"}
+Executing node node /nate/projects/node_modules/snapp/service/start.js  /nate/projects/
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":true,"workspaceDir":"/nate/projects"}
+Executing node node /nate/projects/node_modules/snapp/service/start.js  /nate/projects/
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":true,"workspaceDir":"/nate/projects"}
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":true,"workspaceDir":"/nate/projects"}
+Running user disconnect timer owner23423939058557153
+User fully disconnected owner23423939058557153
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":true,"workspaceDir":"/nate/projects"}
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":true,"workspaceDir":"/nate/projects"}
+Executing node node /nate/projects/node_modules/snapp/service/start.js  /nate/projects/
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":true,"workspaceDir":"/nate/projects"}
+Executing node node /nate/projects/node_modules/snapp/service/start.js  /nate/projects/
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":true,"workspaceDir":"/nate/projects"}
+Executing node node /nate/projects/node_modules/snapp/service/start.js  /nate/projects/
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":true,"workspaceDir":"/nate/projects"}
+Executing node node /nate/projects/node_modules/snapp/service/start.js  /nate/projects/
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":true,"workspaceDir":"/nate/projects"}
+Running user disconnect timer owner23423939058557153
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":false,"workspaceDir":"/nate/projects"}
+Executing node node /nate/projects/node_modules/snapp/service/start.js  /nate/projects/
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":true,"workspaceDir":"/nate/projects"}
+Executing node node /nate/projects/node_modules/snapp/service/start.js  /nate/projects/
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":true,"workspaceDir":"/nate/projects"}
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":true,"workspaceDir":"/nate/projects"}
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":true,"workspaceDir":"/nate/projects"}
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":true,"workspaceDir":"/nate/projects"}
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":true,"workspaceDir":"/nate/projects"}
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":true,"workspaceDir":"/nate/projects"}
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":true,"workspaceDir":"/nate/projects"}
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":true,"workspaceDir":"/nate/projects"}
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":true,"workspaceDir":"/nate/projects"}
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":true,"workspaceDir":"/nate/projects"}
+   [33mwarn  -[39m client not handshaken client should reconnect
+   [33mwarn  -[39m client not handshaken client should reconnect
+   [33mwarn  -[39m client not handshaken client should reconnect
+   [33mwarn  -[39m client not handshaken client should reconnect
+   [33mwarn  -[39m client not handshaken client should reconnect
+   [33mwarn  -[39m client not handshaken client should reconnect
+   [33mwarn  -[39m client not handshaken client should reconnect
+   [33mwarn  -[39m client not handshaken client should reconnect
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":true,"workspaceDir":"/nate/projects"}
+   [33mwarn  -[39m client not handshaken client should reconnect
+   [33mwarn  -[39m client not handshaken client should reconnect
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":true,"workspaceDir":"/nate/projects"}
+   [33mwarn  -[39m client not handshaken client should reconnect
+   [33mwarn  -[39m client not handshaken client should reconnect
+   [33mwarn  -[39m client not handshaken client should reconnect
+   [33mwarn  -[39m client not handshaken client should reconnect
+   [33mwarn  -[39m client not handshaken client should reconnect
+   [33mwarn  -[39m client not handshaken client should reconnect
+   [33mwarn  -[39m client not handshaken client should reconnect
+   [33mwarn  -[39m client not handshaken client should reconnect
+   [33mwarn  -[39m client not handshaken client should reconnect
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":true,"workspaceDir":"/nate/projects"}
+   [33mwarn  -[39m client not handshaken client should reconnect
+   [33mwarn  -[39m client not handshaken client should reconnect
+   [33mwarn  -[39m client not handshaken client should reconnect
+   [33mwarn  -[39m client not handshaken client should reconnect
+   [33mwarn  -[39m client not handshaken client should reconnect
+   [33mwarn  -[39m client not handshaken client should reconnect
+   [33mwarn  -[39m client not handshaken client should reconnect
+   [33mwarn  -[39m client not handshaken client should reconnect
+   [33mwarn  -[39m client not handshaken client should reconnect
+   [33mwarn  -[39m client not handshaken client should reconnect
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":true,"workspaceDir":"/nate/projects"}
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":true,"workspaceDir":"/nate/projects"}
+   [33mwarn  -[39m client not handshaken client should reconnect
+   [33mwarn  -[39m client not handshaken client should reconnect
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":true,"workspaceDir":"/nate/projects"}
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":true,"workspaceDir":"/nate/projects"}
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":true,"workspaceDir":"/nate/projects"}
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":true,"workspaceDir":"/nate/projects"}
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":true,"workspaceDir":"/nate/projects"}
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":true,"workspaceDir":"/nate/projects"}
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":true,"workspaceDir":"/nate/projects"}
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":true,"workspaceDir":"/nate/projects"}
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":true,"workspaceDir":"/nate/projects"}
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":true,"workspaceDir":"/nate/projects"}
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":true,"workspaceDir":"/nate/projects"}
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":true,"workspaceDir":"/nate/projects"}
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":true,"workspaceDir":"/nate/projects"}
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":true,"workspaceDir":"/nate/projects"}
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":true,"workspaceDir":"/nate/projects"}
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":true,"workspaceDir":"/nate/projects"}
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":true,"workspaceDir":"/nate/projects"}
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":true,"workspaceDir":"/nate/projects"}
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":true,"workspaceDir":"/nate/projects"}
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":true,"workspaceDir":"/nate/projects"}
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":true,"workspaceDir":"/nate/projects"}
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":true,"workspaceDir":"/nate/projects"}
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":true,"workspaceDir":"/nate/projects"}
+publish state{"type":"state","pythonProcessRunning":false,"nodeDebugClient":false,"nodeProcessRunning":true,"workspaceDir":"/nate/projects"}
