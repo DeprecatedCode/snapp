@@ -1,0 +1,1 @@
+var snapp = require(__dirname + '/../lib/director').start();
