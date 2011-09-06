@@ -17,19 +17,21 @@ var o = function(s) {
 app.$index = css+'<h1>Home Page</h1><p>Welcome to our website. Please view <a href="/products">Our Products</a>.</p>'+
     '<p>This is a Snapp demo for Node.js</p>';
 
-app.products = function() {
+app.products = function(callback) {
     var list = '';
     for(var i in dummyProductList) {
         product = dummyProductList[i];
         list += '<li><a href="/product/'+product.id+'">'+product.name+'</a> for $'+product.price+'</li>';
     }
-    return css+'<h1>Our Products</h1><p><a href="/">&laquo; Back Home</a><ul>'+list+'</ul>';
+    callback(css+'<h1>Our Products</h1><p><a href="/">&laquo; Back Home</a><ul>'+list+'</ul>');
 };
 
-app.product = function(id) {
+app.product = function(callback, context) {
+    var id = context.arg();
     for(var i in dummyProductList) {
         product = dummyProductList[i];
-        if(product.id == id) return {
+        if(product.id == id) {
+            callback({
         
             $index: css+'<h1>Product Details</h1><p><a href="/products">&laquo; All Products</a><hr/>'+
                 '<h3>'+product.name+'</h3>Price: $'+product.price+' <a href="/product/'+id+'/edit">[edit]</a>',
@@ -41,9 +43,11 @@ app.product = function(id) {
                 
             name: product.name
         
-        };
+            });
+            return;
+        }
     }
-    return css+'Product not found';
+    callback(css+'Product not found');
 };
 
 app.test = {
