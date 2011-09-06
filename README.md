@@ -38,14 +38,14 @@ Pay special attention to which URLs generate a 404 error, and which URLs work.
     var app = require('snapp'),
         f = parseFloat;
    
-    app.math = function(num1, callback) {
-        num1 = f(num1);
+    app.math = function(callback, context) {
+        var num1 = f(context.arg());
         callback({
-            add: function(num2, callback) {
-                callback(num1 + f(num2));
+            add: function(callback, context) {
+                callback(num1 + f(context.arg()));
             },
-            multiply:function(num2, callback) {
-                callback(num1 * f(num2));
+            multiply:function(callback, context) {
+                callback(num1 * f(context.arg()));
             }
         });
     };
@@ -56,7 +56,7 @@ Normally, a 500 error shows the stack trace in the browser. If you would like to
 change this behavior, just add a $500 page to your application. This example logs
 the error to the console.
 
-    app.$500 = function(segment, callback, context) {
+    app.$500 = function(callback, context) {
         console.log(context.error.stack);
         callback('Server Error');
     };
