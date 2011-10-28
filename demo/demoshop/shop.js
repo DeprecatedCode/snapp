@@ -1,7 +1,7 @@
 var app = require('snapp');
 
 console.log('Shop Application running in ' + __dirname);
-    
+
 var dummyProductList = [
     {id: 4,     name: 'Remote Controlled Hot Rod',  price: 49.00},
     {id: 'axe', name: '"Old Whacker" Steel Axe',    price: 89.00},
@@ -32,17 +32,17 @@ app.product = function(callback, context) {
         product = dummyProductList[i];
         if(product.id == id) {
             callback({
-        
+
             $index: css+'<h1>Product Details</h1><p><a href="/products">&laquo; All Products</a><hr/>'+
                 '<h3>'+product.name+'</h3>Price: $'+product.price+' <a href="/product/'+id+'/edit">[edit]</a>',
-                
+
             edit: css+'<h1>Edit Product</h1><p><a href="/product/'+id+'">&laquo; Cancel</a><hr/>'+
                 '<label>Name:</label><input name="name" value="'+o(product.name)+'"/>'+
                 '<br/><label>Price:</label><input name="price" value="'+product.price+'"/>'+
                 '<br/><input type="submit" value="Cannot Save Product in this Demo" disabled="disabled"/>',
-                
+
             name: product.name
-        
+
             });
             return;
         }
